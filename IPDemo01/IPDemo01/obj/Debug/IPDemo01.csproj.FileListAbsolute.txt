@@ -1,0 +1,6 @@
+E:\壹环后台\Test\TestIP\IPDemo01\IPDemo01\bin\Debug\IPDemo01.exe.config
+E:\壹环后台\Test\TestIP\IPDemo01\IPDemo01\bin\Debug\IPDemo01.exe
+E:\壹环后台\Test\TestIP\IPDemo01\IPDemo01\bin\Debug\IPDemo01.pdb
+E:\壹环后台\Test\TestIP\IPDemo01\IPDemo01\obj\Debug\IPDemo01.csprojResolveAssemblyReference.cache
+E:\壹环后台\Test\TestIP\IPDemo01\IPDemo01\obj\Debug\IPDemo01.exe
+E:\壹环后台\Test\TestIP\IPDemo01\IPDemo01\obj\Debug\IPDemo01.pdb
